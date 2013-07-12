@@ -11,7 +11,7 @@ Alfred是OS X最常用的一款增强型工具软件，充分利用了OS X的系
 
 # Development
 Alfred 2的workflow提供了多种实现方式，比如shell、php、perl、python、ruby和applescript。
-SNSearch是基于Python2.7和Shell构建的。
+TravelGuideSearch是基于Python2.7和Shell构建的。
 
 # Requirements
 * Python2.7 （OS X 10.8默认的Python版本）
